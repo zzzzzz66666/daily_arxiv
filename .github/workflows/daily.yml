@@ -12,6 +12,9 @@ on:
 #   GITHUB_NAME: zhuwenxing
 #   GITHUB_EMAIL: wenxing.zhu@qq.com
 
+permissions:
+  contents: write
+
 
 jobs:
   sync:
@@ -44,3 +47,5 @@ jobs:
           rebase: 'true'
 #           name: ${{ env.GITHUB_NAME }}
 #           email: ${{ env.GITHUB_EMAIL }}
+
+      - uses: gautamkrishnar/keepalive-workflow@v1 # using the workflow with default settings
