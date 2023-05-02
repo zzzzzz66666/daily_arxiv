@@ -1,3 +1,25 @@
+## 2023-05-01
+|paper|code|
+|---|---|
+|[clnet: complex input lightweight neural network designed for massive mimo csi feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
+|[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
+|[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
+## 2023-04-28
+|paper|code|
+|---|---|
+|[spiking neural network decision feedback equalization for im/dd systems](https://arxiv.org/abs/2304.14152)|[snn-dfe](https://github.com/kit-cel/snn-dfe)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
+|[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
+## 2023-04-27
+|paper|code|
+|---|---|
+|[computationally-efficient initialisation of gps: the generalised variogram method](https://arxiv.org/abs/2210.05394)|[generalised-variogram-method](https://github.com/games-uchile/generalised-variogram-method)|
+|[quantifying the impact of data characteristics on the transferability of sleep stage scoring models](https://arxiv.org/abs/2304.06033)|[transferability_sleep](https://github.com/akaraspt/transferability_sleep)|
+## 2023-04-26
+|paper|code|
+|---|---|
+|[data-driven modeling of noise time series with convolutional generative adversarial networks](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
 ## 2023-04-24
 |paper|code|
 |---|---|
