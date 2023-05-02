@@ -3,14 +3,16 @@ name: Run Daily Arxiv
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 12 * * *"
+    - cron: "00 12 * * 1"
   push:
     branches:
       - main
-# env:
+env:
 
 #   GITHUB_NAME: zhuwenxing
 #   GITHUB_EMAIL: wenxing.zhu@qq.com
+  GITHUB_NAME: zzzzzz66666
+  GITHUB_EMAIL: zhj336@mail.ustc.edu.cn
 
 permissions:
   contents: write
@@ -45,7 +47,7 @@ jobs:
           commit-message: "update today arxiv"
           files: README.md daily.json
           rebase: 'true'
-#           name: ${{ env.GITHUB_NAME }}
-#           email: ${{ env.GITHUB_EMAIL }}
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
 
       - uses: gautamkrishnar/keepalive-workflow@v1 # using the workflow with default settings
