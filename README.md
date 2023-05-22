@@ -1,3 +1,36 @@
+## 2023-05-19
+|paper|code|
+|---|---|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[neural network entropy (nneten): entropy-based eeg signal and chaotic time series classification, python package for nneten calculation](https://arxiv.org/abs/2303.17995)|[nneten](https://github.com/izotov93/nneten)|
+|[nonparametric two-sample testing by betting](https://arxiv.org/abs/2112.09162)|[nonparametric-testing-by-betting](https://github.com/sshekhar17/nonparametric-testing-by-betting)|
+|[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
+|[synchronizing many filesystems in near linear time](https://arxiv.org/abs/2302.09666)|[algebraic-reconciler](https://github.com/csirmaz/algebraic-reconciler)|
+|[deir: efficient and robust exploration through discriminative-model-based episodic intrinsic rewards](https://arxiv.org/abs/2304.10770)|[deir](https://github.com/swan-utokyo/deir)|
+## 2023-05-18
+|paper|code|
+|---|---|
+|[pmnet: robust pathloss map prediction via supervised learning](https://arxiv.org/abs/2211.10527)|[pmnet](https://github.com/abman23/pmnet)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[a modular and high-resolution time-frequency post-processing technique](https://arxiv.org/abs/2305.10009)|[Time-frequency-analysis](https://github.com/jsshen1/Time-frequency-analysis)|
+|[algorithms for boolean matrix factorization using integer programming](https://arxiv.org/abs/2305.10185)|[booleanmf](https://gitlab.com/ngillis/booleanmf)|
+|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[random edge coding: one-shot bits-back coding of large labeled graphs](https://arxiv.org/abs/2305.09705)|[random-edge-coding](https://github.com/dsevero/random-edge-coding)|
+## 2023-05-17
+|paper|code|
+|---|---|
+|[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
+|[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[phase retrieval via model-free power flow jacobian recovery](https://arxiv.org/abs/2305.09661)|[powerphaseretrieval.jl](https://github.com/samtalki/powerphaseretrieval.jl)|
+## 2023-05-16
+|paper|code|
+|---|---|
+|[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
+|[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[accelerated algorithms for nonlinear matrix decomposition with the relu function](https://arxiv.org/abs/2305.08687)|[relu-nmd](https://gitlab.com/ngillis/relu-nmd)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[detection and mitigation of byzantine attacks in distributed training](https://arxiv.org/abs/2208.08085)|[aspis](https://github.com/kkonstantinidis/aspis)|
 ## 2023-05-12
 |paper|code|
 |---|---|
