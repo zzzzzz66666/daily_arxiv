@@ -1,3 +1,35 @@
+## 2023-05-26
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[emergency response person localization and vital sign estimation using a semi-autonomous robot mounted sfcw radar](https://arxiv.org/abs/2305.15795)|[radar-vitals-estimation](https://github.com/schrchr/radar-vitals-estimation)|
+## 2023-05-25
+|paper|code|
+|---|---|
+|[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[spdsw](https://github.com/clbonet/spdsw)|
+|[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
+|[directed message passing based on attention for prediction of molecular properties](https://arxiv.org/abs/2305.14819)|[d-gats](https://github.com/gongchen-1995/d-gats)|
+|[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
+## 2023-05-24
+|paper|code|
+|---|---|
+|[extending conformal prediction to hidden markov models with exact validity via de finetti's theorem for markov chains](https://arxiv.org/abs/2210.02271)|[cp_hmm](https://github.com/complexinfo/cp_hmm)|
+|[cooperative channel capacity learning](https://arxiv.org/abs/2305.13493)|[CORTICAL](https://github.com/tonellolab/CORTICAL)|
+|[temporally causal discovery tests for discrete time series and neural spike trains](https://arxiv.org/abs/2305.14131)|[github_temporal_causality](https://github.com/andreas947/github_temporal_causality)|
+## 2023-05-23
+|paper|code|
+|---|---|
+|[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
+|[machine learning-based csi feedback with variable length in fdd massive mimo](https://arxiv.org/abs/2204.04723)|[ml-based-csi-feedback](https://github.com/matteonerini/ml-based-csi-feedback)|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[deepjscc-l++: robust and bandwidth-adaptive wireless image transmission](https://arxiv.org/abs/2305.13161)|[deepjscc-lplusplus](https://github.com/aprilbian/deepjscc-lplusplus)|
+|[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[commodity-specific triads in the dutch inter-industry production network](https://arxiv.org/abs/2305.12179)|[numetris](https://github.com/marsmdk/numetris)|
+|[evaluating prompt-based question answering for object prediction in the open research knowledge graph](https://arxiv.org/abs/2305.12900)|[thesis_work](https://github.com/as18cia/thesis_work)|
 ## 2023-05-19
 |paper|code|
 |---|---|
