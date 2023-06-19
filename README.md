@@ -1,3 +1,26 @@
+## 2023-06-16
+|paper|code|
+|---|---|
+|[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
+|[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
+|[low-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
+|[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
+|[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
+## 2023-06-14
+|paper|code|
+|---|---|
+|[semantic information recovery in wireless networks](https://arxiv.org/abs/2204.13366)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[deep demixing: reconstructing the evolution of network epidemics](https://arxiv.org/abs/2306.07938)|[Deep_demixing](https://github.com/gojkoc54/Deep_demixing)|
+|[binomial line cox processes: statistical characterization and applications in wireless network analysis](https://arxiv.org/abs/2302.05151)|[blcp](https://github.com/mt19146/blcp)|
+## 2023-06-13
+|paper|code|
+|---|---|
+|[weight freezing: a regularization approach for fully connected layers with an application in eeg classification](https://arxiv.org/abs/2306.05775)|[weightfreezing](https://github.com/miaozhengqing/weightfreezing)|
+|[bayesian calibration of mems accelerometers](https://arxiv.org/abs/2306.06144)|[bayes_cal_paper](https://github.com/oduerr/bayes_cal_paper)|
+|[optimized gradient tracking for decentralized online learning](https://arxiv.org/abs/2306.06375)|[Optimized-Gradient-Tracking](https://github.com/Shivangi-Dubey-Sharma/Optimized-Gradient-Tracking)|
+|[ts-moco: time-series momentum contrast for self-supervised physiological representation learning](https://arxiv.org/abs/2306.06522)|[ts-moco](https://github.com/philipph77/ts-moco)|
+|[evaluating prompt-based question answering for object prediction in the open research knowledge graph](https://arxiv.org/abs/2305.12900)|[thesis_work](https://github.com/as18cia/thesis_work)|
 ## 2023-06-09
 |paper|code|
 |---|---|
