@@ -1,3 +1,37 @@
+## 2023-06-30
+|paper|code|
+|---|---|
+|[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
+|[assessing the performance of 1d-convolution neural networks to predict concentration of mixture components from raman spectra](https://arxiv.org/abs/2306.16621)|[ramix](https://github.com/dexterantonio/ramix)|
+|[accurate pet reconstruction from reduced set of measurements based on gmm](https://arxiv.org/abs/2306.17028)|[accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm](https://github.com/tm2005/accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm)|
+|[tokenization and the noiseless channel](https://arxiv.org/abs/2306.16842)|[tokenization-scorer](https://github.com/zouharvi/tokenization-scorer)|
+## 2023-06-29
+|paper|code|
+|---|---|
+|[ai-generated incentive mechanism and full-duplex semantic communications for information sharing](https://arxiv.org/abs/2303.01896)|[semsharing](https://github.com/hongyangdu/semsharing)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[understanding a version of multivariate symmetric uncertainty to assist in feature selection](https://arxiv.org/abs/1709.08730)|[package=msu](https://cran.r-project.org/package=msu)|
+|[on graph uncertainty principle and eigenvector delocalization](https://arxiv.org/abs/2306.15810)|[uncertainty-delocalization](https://github.com/erebrova/uncertainty-delocalization)|
+|[on information captured by neural networks: connections with memorization and generalization](https://arxiv.org/abs/2306.15918)|[aws-cv-unique-information](https://github.com/awslabs/aws-cv-unique-information)|
+## 2023-06-28
+|paper|code|
+|---|---|
+|[sinr: deconvolving circular sas images using implicit neural representations](https://arxiv.org/abs/2204.10428)|[csas_deconvolution_inr](https://github.com/awreed/csas_deconvolution_inr)|
+|[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
+|[on neural architectures for deep learning-based source separation of co-channel ofdm signals](https://arxiv.org/abs/2303.06438)|[scss_ofdmarchitecture](https://github.com/rfchallenge/scss_ofdmarchitecture)|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[llmzip: lossless text compression using large language models](https://arxiv.org/abs/2306.04050)|[LLMzip](https://github.com/vcskaushik/LLMzip)|
+## 2023-06-27
+|paper|code|
+|---|---|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/lanl/openfwi)|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[robust spatiotemporal traffic forecasting with reinforced dynamic adversarial training](https://arxiv.org/abs/2306.14126)|[rdat](https://github.com/usail-hkust/rdat)|
+|[cst-yolo: a novel method for blood cell detection based on improved yolov7 and cnn-swin transformer](https://arxiv.org/abs/2306.14590)|[CST-YOLO](https://github.com/mkang315/CST-YOLO)|
+|[folded polynomial codes for coded distributed $aa^\top$-type matrix multiplication](https://arxiv.org/abs/2211.15267)|[foldedpolynomialcodes](https://github.com/shinez9/foldedpolynomialcodes)|
+|[domain adaptive decision trees: implications for accuracy and fairness](https://arxiv.org/abs/2302.13846)|[domain-adaptive-trees](https://github.com/nobias-project/domain-adaptive-trees)|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
 ## 2023-06-23
 |paper|code|
 |---|---|
