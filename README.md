@@ -1,3 +1,38 @@
+## 2023-07-21
+|paper|code|
+|---|---|
+|[learning-based reconstruction of fri signals](https://arxiv.org/abs/2212.08758)|[LearningBasedFRI](https://github.com/vchleung/LearningBasedFRI)|
+|[multi-view self-supervised learning for multivariate variable-channel time series](https://arxiv.org/abs/2307.09614)|[multiview_ts_ssl](https://github.com/theabrusch/multiview_ts_ssl)|
+|[novel batch active learning approach and its application to synthetic aperture radar datasets](https://arxiv.org/abs/2307.10495)|[sar_bal](https://github.com/chapman20j/sar_bal)|
+|[can information flows suggest targets for interventions in neural circuits?](https://arxiv.org/abs/2111.05299)|[ann-info-flow](https://github.com/praveenv253/ann-info-flow)|
+## 2023-07-20
+|paper|code|
+|---|---|
+|[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
+|[genkl: an iterative framework for resolving label ambiguity and label non-conformity in web images via a new generalized kl divergence](https://arxiv.org/abs/2307.09810)|[genkl](https://github.com/codetopaper/genkl)|
+## 2023-07-19
+|paper|code|
+|---|---|
+|[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
+|[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[implicit anatomical rendering for medical image segmentation with stochastic experts](https://arxiv.org/abs/2304.03209)|[morse](https://github.com/charlesyou999648/morse)|
+|[gaussian process deconvolution](https://arxiv.org/abs/2305.04871)|[gaussian-process-deconvolution](https://github.com/games-uchile/gaussian-process-deconvolution)|
+|[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
+|[classification with incoherent kernel dictionary learning](https://arxiv.org/abs/2307.08796)|[incoherent-kernel-dictionary-learning](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)|
+|[reduced kernel dictionary learning](https://arxiv.org/abs/2307.08798)|[rkdl](https://github.com/denisilie94/rkdl)|
+|[radar-stda: a high-performance spatial-temporal denoising autoencoder for interference mitigation of fmcw radars](https://arxiv.org/abs/2307.09063)|[rd_map_temporal_spatial_denoising_autoencoder](https://github.com/guanrunwei/rd_map_temporal_spatial_denoising_autoencoder)|
+|[application of bert in wind power forecasting-teletraan's solution in baidu kdd cup 2022](https://arxiv.org/abs/2307.09248)|[kdd2022-baidu](https://github.com/longxingtan/kdd2022-baidu)|
+|[deepcabac: a universal compression algorithm for deep neural networks](https://arxiv.org/abs/1907.11900)|[DeepCABAC](https://github.com/fraunhoferhhi/DeepCABAC)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+## 2023-07-18
+|paper|code|
+|---|---|
+|[wifi based distance estimation using supervised machine learning](https://arxiv.org/abs/2208.07190)|[wifi-fingerprint](https://github.com/kahramankostas/wifi-fingerprint)|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
+|[source-free domain adaptation with temporal imputation for time series data](https://arxiv.org/abs/2307.07542)|[mapu_sfda_ts](https://github.com/mohamedr002/mapu_sfda_ts)|
+|[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
 ## 2023-07-14
 |paper|code|
 |---|---|
