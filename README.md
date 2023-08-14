@@ -1,3 +1,27 @@
+## 2023-08-11
+|paper|code|
+|---|---|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
+|[information decomposition reveals hidden high-order contributions to temporal irreversibility](https://arxiv.org/abs/2308.05664)|[fastdmf](https://gitlab.com/concog/fastdmf)|
+## 2023-08-10
+|paper|code|
+|---|---|
+|[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[striking the right balance: three-dimensional ocean sound speed field reconstruction using tensor neural networks](https://arxiv.org/abs/2308.04930)|[tensor-neural-network](https://github.com/oceanstarlab/tensor-neural-network)|
+## 2023-08-09
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
+## 2023-08-08
+|paper|code|
+|---|---|
+|[l-seqsleepnet: whole-cycle long sequence modelling for automatic sleep staging](https://arxiv.org/abs/2301.03441)|[l-seqsleepnet](https://github.com/pquochuy/l-seqsleepnet)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
+|[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 ## 2023-08-03
 |paper|code|
 |---|---|
