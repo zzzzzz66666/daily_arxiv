@@ -1,3 +1,16 @@
+## 2023-08-17
+|paper|code|
+|---|---|
+|[quaternary neural belief propagation decoding of quantum ldpc codes with overcomplete check matrices](https://arxiv.org/abs/2308.08208)|[quantum-neural-bp4-demo](https://github.com/kit-cel/quantum-neural-bp4-demo)|
+## 2023-08-16
+|paper|code|
+|---|---|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
+## 2023-08-15
+|paper|code|
+|---|---|
+|[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
 ## 2023-08-11
 |paper|code|
 |---|---|
