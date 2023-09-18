@@ -1,3 +1,42 @@
+## 2023-09-15
+|paper|code|
+|---|---|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[pypvroof: a python package for extracting the characteristics of rooftop pv installations using remote sensing data](https://arxiv.org/abs/2309.07143)|[pypvroof](https://github.com/gabrielkasmi/pypvroof)|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
+|[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
+## 2023-09-14
+|paper|code|
+|---|---|
+|[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
+|[a worker-task specialization model for crowdsourcing: efficient inference and fundamental limits](https://arxiv.org/abs/2111.12550)|[dtype](https://github.com/iids88/dtype)|
+|[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
+## 2023-09-13
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[reinforcement learning for supply chain attacks against frequency and voltage control](https://arxiv.org/abs/2309.05814)|[rl-cps-attacks](https://github.com/amrmsab/rl-cps-attacks)|
+|[concurrent composition for interactive differential privacy with adaptive privacy-loss parameters](https://arxiv.org/abs/2309.05901)|[concurrent-composition](https://github.com/concurrent-composition/concurrent-composition)|
+|[chebyshev particles](https://arxiv.org/abs/2309.06373)|[chebyshevparticles](https://github.com/986876245/chebyshevparticles)|
+## 2023-09-12
+|paper|code|
+|---|---|
+|[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[hermes](https://github.com/etidav/hermes)|
+|[efficient and scalable parametric high-order portfolios design via the skew-t distribution](https://arxiv.org/abs/2206.02412)|[highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios)|
+|[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[physics-informed neural networks for prognostics and health management of lithium-ion batteries](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
+|[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
+|[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[perceptual adjustment queries and an inverted measurement paradigm for low-rank metric learning](https://arxiv.org/abs/2309.04626)|[paq](https://github.com/austinxu87/paq)|
 ## 2023-09-08
 |paper|code|
 |---|---|
