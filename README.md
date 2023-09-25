@@ -1,3 +1,35 @@
+## 2023-09-22
+|paper|code|
+|---|---|
+|[deep sound-field denoiser: optically-measured sound-field denoising using deep neural network](https://arxiv.org/abs/2304.14923)|[deep-sound-field-denoiser](https://github.com/nttcslab/deep-sound-field-denoiser)|
+|[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
+|[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
+|[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[multimodal transformers for wireless communications: a case study in beam prediction](https://arxiv.org/abs/2309.11811)|[deepsense6g_tii](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)|
+|[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
+## 2023-09-21
+|paper|code|
+|---|---|
+|[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
+|[on the formation of min-weight codewords of polar/pac codes and its applications](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
+|[towards disentangling information paths with coded resnext](https://arxiv.org/abs/2202.05343)|[coded-resnext](https://github.com/avranasa/coded-resnext)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
+## 2023-09-20
+|paper|code|
+|---|---|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
+|[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[mixed graph signal analysis of joint image denoising / interpolation](https://arxiv.org/abs/2309.10114)|[icassp24-joint](https://github.com/sybernix/icassp24-joint)|
+|[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
+## 2023-09-19
+|paper|code|
+|---|---|
+|[frequency estimation using complex-valued shifted window transformer](https://arxiv.org/abs/2309.09352)|[spectral-super-resolution-swin](https://github.com/josiahwsmith10/spectral-super-resolution-swin)|
+|[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
 ## 2023-09-15
 |paper|code|
 |---|---|
