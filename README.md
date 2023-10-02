@@ -1,3 +1,39 @@
+## 2023-09-29
+|paper|code|
+|---|---|
+|[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
+|[geometry of sensitivity: twice sampling and hybrid clipping in differential privacy with optimal gaussian noise and application to deep learning](https://arxiv.org/abs/2309.02672)|[twice_sampling_and_hybrid_clipping](https://github.com/hanshen-xiao/twice_sampling_and_hybrid_clipping)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+## 2023-09-28
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[fully adaptive time-varying wave-shape model: applications in biomedical signal processing](https://arxiv.org/abs/2309.15211)|[tvwse](https://github.com/joaquinr-uner/tvwse)|
+|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles_ecg_model](https://github.com/klean2050/tiles_ecg_model)|
+|[investigating the changes in bold responses during viewing of images with varied complexity: an fmri time-series based analysis on human vision](https://arxiv.org/abs/2309.15495)|[fmri-time-series-classification](https://github.com/naveen7102/fmri-time-series-classification)|
+## 2023-09-27
+|paper|code|
+|---|---|
+|[joint communication and computation framework for goal-oriented semantic communication with distortion rate resilience](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
+## 2023-09-26
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time](https://arxiv.org/abs/2202.09209)|[pytempscsp](https://github.com/tonylindeberg/pytempscsp)|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[mm-fi: multi-modal non-intrusive 4d human dataset for versatile wireless sensing](https://arxiv.org/abs/2305.10345)|[mmfi_dataset](https://github.com/ybhbingo/mmfi_dataset)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
+|[functional graph contrastive learning of hyperscanning eeg reveals emotional contagion evoked by stereotype-based stressors](https://arxiv.org/abs/2308.13546)|[Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG](https://github.com/Maxwell-Wong/Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[dnn-danm: a high-accuracy two-dimensional doa estimation method using practical ris](https://arxiv.org/abs/2309.13856)|[dnn-danm](https://github.com/chenpengseu/dnn-danm)|
+|[single-antenna jammers in mimo-ofdm can resemble multi-antenna jammers](https://arxiv.org/abs/2309.14059)|[ofdm-jammer](https://github.com/iip-group/ofdm-jammer)|
+|[partition and code: learning how to compress graphs](https://arxiv.org/abs/2107.01952)|[PnC](https://github.com/gbouritsas/PnC)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2023-09-22
 |paper|code|
 |---|---|
