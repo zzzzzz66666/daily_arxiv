@@ -1,3 +1,35 @@
+## 2023-10-06
+|paper|code|
+|---|---|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
+|[procedural text mining with large language models](https://arxiv.org/abs/2310.03376)|[proc-tm](https://github.com/jd-coderepos/proc-tm)|
+## 2023-10-05
+|paper|code|
+|---|---|
+|[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
+|[on the financial consequences of simplified battery sizing models without considering operational details](https://arxiv.org/abs/2310.02494)|[community-battery-sizing-study](https://github.com/nam-dinh-codes/community-battery-sizing-study)|
+|[local max-entropy and free energy principles, belief diffusions and their singularities](https://arxiv.org/abs/2310.02946)|[topos](https://github.com/opeltre/topos)|
+## 2023-10-04
+|paper|code|
+|---|---|
+|[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+## 2023-10-03
+|paper|code|
+|---|---|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[an efficient algorithm for clustered multi-task compressive sensing](https://arxiv.org/abs/2310.00420)|[multics](https://github.com/al5250/multics)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
+|[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
+|[age of information in slotted aloha with energy harvesting](https://arxiv.org/abs/2310.00348)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[mining java memory errors using subjective interesting subgroups with hierarchical targets](https://arxiv.org/abs/2310.00781)|[sca-miner](https://github.com/remilyoucef/sca-miner)|
 ## 2023-09-29
 |paper|code|
 |---|---|
