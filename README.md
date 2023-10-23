@@ -1,3 +1,26 @@
+## 2023-10-20
+|paper|code|
+|---|---|
+|[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
+|[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
+## 2023-10-19
+|paper|code|
+|---|---|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[perceptual measurements, distances and metrics](https://arxiv.org/abs/2310.11759)|[perceptual_metric](https://github.com/jonathanvacher/perceptual_metric)|
+## 2023-10-18
+|paper|code|
+|---|---|
+|[removing structured noise with diffusion models](https://arxiv.org/abs/2302.05290)|[joint-diffusion](https://github.com/tristan-deep/joint-diffusion)|
+|[correlative information maximization: a biologically plausible approach to supervised deep neural networks without weight symmetry](https://arxiv.org/abs/2306.04810)|[Supervised-CorInfoMax](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)|
+## 2023-10-17
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
+|[autodeconj: a gpu accelerated imagej plugin for 3d light field deconvolution with optimal iteration numbers predicting](https://arxiv.org/abs/2208.11422)|[autodeconj](https://github.com/onetism/autodeconj)|
+|[beyond normal: on the evaluation of mutual information estimators](https://arxiv.org/abs/2306.11078)|[bmi](https://github.com/cbg-ethz/bmi)|
+|[the mixtures and the neural critics: on the pointwise mutual information profiles of fine distributions](https://arxiv.org/abs/2310.10240)|[bmi](https://github.com/cbg-ethz/bmi)|
 ## 2023-10-13
 |paper|code|
 |---|---|
