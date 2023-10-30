@@ -1,3 +1,29 @@
+## 2023-10-27
+|paper|code|
+|---|---|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
+|[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
+## 2023-10-26
+|paper|code|
+|---|---|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+## 2023-10-25
+|paper|code|
+|---|---|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
+## 2023-10-24
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[riscatter: unifying backscatter communication and reconfigurable intelligent surface](https://arxiv.org/abs/2212.09121)|[riscatter](https://github.com/snowztail/riscatter)|
+|[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
+|[teleqna: a benchmark dataset to assess large language models telecommunications knowledge](https://arxiv.org/abs/2310.15051)|[teleqna](https://github.com/netop-team/teleqna)|
 ## 2023-10-20
 |paper|code|
 |---|---|
