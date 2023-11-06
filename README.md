@@ -1,3 +1,35 @@
+## 2023-11-03
+|paper|code|
+|---|---|
+|[exclusive group lasso for structured variable selection](https://arxiv.org/abs/2108.10284)|[exclusive-lasso](https://github.com/gregdvd/exclusive-lasso)|
+|[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
+|[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+## 2023-11-02
+|paper|code|
+|---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[generating hsr bogie vibration signals via pulse voltage-guided conditional diffusion model](https://arxiv.org/abs/2311.00496)|[vgcdm](https://github.com/xuanliu2000/vgcdm)|
+## 2023-11-01
+|paper|code|
+|---|---|
+|[a multimodal sensing ring for quantification of scratch intensity](https://arxiv.org/abs/2302.03813)|[wearable_scratch_intensity](https://github.com/rchi-lab/wearable_scratch_intensity)|
+|[message passing meets graph neural networks: a new paradigm for massive mimo systems](https://arxiv.org/abs/2302.06896)|[amp_gnn](https://github.com/hehengtao/amp_gnn)|
+|[on the impact of control signaling in ris-empowered wireless communications](https://arxiv.org/abs/2303.16797)|[ris-control](https://github.com/lostinafro/ris-control)|
+|[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+## 2023-10-31
+|paper|code|
+|---|---|
+|[ipdp: on partial dependence plots in dynamic modeling scenarios](https://arxiv.org/abs/2306.07775)|[ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios](https://github.com/mmschlk/ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios)|
+|[optimal status updates for minimizing age of correlated information in iot networks with energy harvesting sensors](https://arxiv.org/abs/2310.19216)|[RSS_algorithm](https://github.com/CXU-NWAFU/RSS_algorithm)|
+|[kernelized cumulants: beyond kernel mean embeddings](https://arxiv.org/abs/2301.12466)|[kernelized-cumulants](https://github.com/patricbonnier/kernelized-cumulants)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[exact optimality of communication-privacy-utility tradeoffs in distributed mean estimation](https://arxiv.org/abs/2306.04924)|[rrsc](https://github.com/BerivanIsik/rrsc)|
+|[boosting learning for ldpc codes to improve the error-floor performance](https://arxiv.org/abs/2310.07194)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
+|[estimating the rate-distortion function by wasserstein gradient descent](https://arxiv.org/abs/2310.18908)|[wgd](https://github.com/yiboyang/wgd)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-10-27
 |paper|code|
 |---|---|
