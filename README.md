@@ -1,3 +1,27 @@
+## 2023-11-10
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
+|[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+|[eeg-dg: a multi-source domain generalization framework for motor imagery eeg classification](https://arxiv.org/abs/2311.05415)|[eeg-dg](https://github.com/xc-zhonghit/eeg-dg)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+## 2023-11-09
+|paper|code|
+|---|---|
+|[exploring best practices for ecg signal processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
+|[discerning and enhancing the weighted sum-rate maximization algorithms in communications](https://arxiv.org/abs/2311.04546)|[ratemax](https://github.com/zepengzhang/ratemax)|
+## 2023-11-08
+|paper|code|
+|---|---|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[classification of various types of damages in honeycomb composite sandwich structures using guided wave structural health monitoring](https://arxiv.org/abs/2311.03765)|[damage-classification-using-feature-engineering](https://github.com/shrutisawant099/damage-classification-using-feature-engineering)|
+|[the fairness stitch: unveiling the potential of model stitching in neural network de-biasing](https://arxiv.org/abs/2311.03532)|[the_fairness_stitch](https://github.com/modar7/the_fairness_stitch)|
+## 2023-11-07
+|paper|code|
+|---|---|
+|[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-11-03
 |paper|code|
 |---|---|
