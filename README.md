@@ -1,3 +1,28 @@
+## 2023-11-17
+|paper|code|
+|---|---|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
+## 2023-11-16
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
+## 2023-11-15
+|paper|code|
+|---|---|
+|[cslp-ae: a contrastive split-latent permutation autoencoder framework for zero-shot electroencephalography signal conversion](https://arxiv.org/abs/2311.07788)|[cslp-ae](https://github.com/andersxa/cslp-ae)|
+## 2023-11-14
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[data-driven denoising of stationary accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[convolutional monge mapping normalization for learning on sleep data](https://arxiv.org/abs/2305.18831)|[convolutional-monge-mapping-normalization](https://github.com/pythonot/convolutional-monge-mapping-normalization)|
+|[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
 ## 2023-11-10
 |paper|code|
 |---|---|
