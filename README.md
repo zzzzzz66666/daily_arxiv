@@ -1,3 +1,20 @@
+## 2023-11-23
+|paper|code|
+|---|---|
+|[high-power and safe rf wireless charging: cautious deployment and operation](https://arxiv.org/abs/2311.12809)|[high_power_and_safe_wpt](https://github.com/onel2428/high_power_and_safe_wpt)|
+|[applying dimensionality reduction as precursor to lstm-cnn models for classifying imagery and motor signals in ecog-based bcis](https://arxiv.org/abs/2311.13507)|[dim-reduction-with-cnn-lstm](https://github.com/bafanas/dim-reduction-with-cnn-lstm)|
+## 2023-11-22
+|paper|code|
+|---|---|
+|[ssvep-dan: a data alignment network for ssvep-based brain computer interfaces](https://arxiv.org/abs/2311.12666)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+## 2023-11-21
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[source-free domain adaptation for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2305.17403)|[sfda-ssvep-bci](https://github.com/osmanberke/sfda-ssvep-bci)|
+|[estimation of entropy-regularized optimal transport maps between non-compactly supported measures](https://arxiv.org/abs/2311.11934)|[entropic-map](https://github.com/mattwerenski/entropic-map)|
 ## 2023-11-17
 |paper|code|
 |---|---|
