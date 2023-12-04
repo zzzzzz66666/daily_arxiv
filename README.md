@@ -1,3 +1,30 @@
+## 2023-12-01
+|paper|code|
+|---|---|
+|[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
+## 2023-11-30
+|paper|code|
+|---|---|
+|[zero-shot self-supervised learning for mri reconstruction](https://arxiv.org/abs/2102.07737)|[ZS-SSL](https://github.com/byaman14/ZS-SSL)|
+|[fast and expressive gesture recognition using a combination-homomorphic electromyogram encoder](https://arxiv.org/abs/2311.14675)|[com-hom-emg](https://github.com/nik-sm/com-hom-emg)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
+|[quantifying the redundancy between prosody and text](https://arxiv.org/abs/2311.17233)|[quantifying-redundancy](https://github.com/lu-wo/quantifying-redundancy)|
+## 2023-11-29
+|paper|code|
+|---|---|
+|[foundations of user-centric cell-free massive mimo](https://arxiv.org/abs/2108.02541)|[cell-free-book](https://github.com/emilbjornson/cell-free-book)|
+## 2023-11-28
+|paper|code|
+|---|---|
+|[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[a distributed block-split gibbs sampler with hypergraph structure for high-dimensional inverse problems](https://arxiv.org/abs/2210.02341)|[dsgs](https://gitlab.cristal.univ-lille.fr/pthouven/dsgs)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[deda: deep directed accumulator](https://arxiv.org/abs/2303.08434)|[deda](https://github.com/tinymilky/deda)|
+|[robust joint estimation of galaxy redshift and spectral templates using online dictionary learning](https://arxiv.org/abs/2311.14812)|[bryanetal2023](https://github.com/hyperspectraldictionarylearning/bryanetal2023)|
+|[mpcnn: a novel matrix profile approach for cnn-based sleep apnea classification](https://arxiv.org/abs/2311.15041)|[mpcnn-sleep-apnea](https://github.com/vinuni-vishc/mpcnn-sleep-apnea)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[autoregressive language models for estimating the entropy of epic ehr audit logs](https://arxiv.org/abs/2311.06401)|[audit-log-lm](https://github.com/bcwarner/audit-log-lm)|
 ## 2023-11-23
 |paper|code|
 |---|---|
