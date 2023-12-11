@@ -1,3 +1,32 @@
+## 2023-12-08
+|paper|code|
+|---|---|
+|[neural network based generation of a 1-dimensional stochastic field with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
+## 2023-12-07
+|paper|code|
+|---|---|
+|[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
+## 2023-12-06
+|paper|code|
+|---|---|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[spectral temporal graph neural network for massive mimo csi prediction](https://arxiv.org/abs/2312.02159)|[csi-prediction](https://github.com/sharanmourya/csi-prediction)|
+|[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
+## 2023-12-05
+|paper|code|
+|---|---|
+|[w-transformers : a wavelet-based transformer framework for univariate time series forecasting](https://arxiv.org/abs/2209.03945)|[w-transformer](https://github.com/capwidow/w-transformer)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[towards decentralized task offloading and resource allocation in user-centric mobile edge computing](https://arxiv.org/abs/2312.01499)|[ucmec-mmwave-fronthaul](https://github.com/qlt315/ucmec-mmwave-fronthaul)|
+|[augmenting channel charting with classical wireless source localization techniques](https://arxiv.org/abs/2312.01968)|[toa-aoa-augmented-channelcharting](https://github.com/jeija/toa-aoa-augmented-channelcharting)|
+|[model-free learning of two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 ## 2023-12-01
 |paper|code|
 |---|---|
