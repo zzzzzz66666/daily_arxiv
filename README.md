@@ -1,3 +1,34 @@
+## 2023-12-15
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+## 2023-12-14
+|paper|code|
+|---|---|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
+|[annotating sleep states in children from wrist-worn accelerometer data using machine learning](https://arxiv.org/abs/2312.07561)|[ece381k-applied-ml-project](https://github.com/ss26/ece381k-applied-ml-project)|
+|[towards a geometric understanding of spatio temporal graph convolution networks](https://arxiv.org/abs/2312.07777)|[stg-gradcam](https://github.com/daspraty/stg-gradcam)|
+|[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
+|[learning to transmit with provable guarantees in wireless federated learning](https://arxiv.org/abs/2304.09329)|[wirelessfl-pdg](https://github.com/bl166/wirelessfl-pdg)|
+## 2023-12-13
+|paper|code|
+|---|---|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[decentralized state estimation in a dimension-reduced linear regression](https://arxiv.org/abs/2210.06947)|[dtt](https://gitlab.com/robinforsling/dtt)|
+|[balancing summarization and change detection in graph streams](https://arxiv.org/abs/2311.18694)|[bsc](https://github.com/s-fuku/bsc)|
+## 2023-12-12
+|paper|code|
+|---|---|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[simpsi: a simple strategy to preserve spectral information in time series data augmentation](https://arxiv.org/abs/2312.05790)|[simpsi](https://github.com/hyun-ryu/simpsi)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
+|[robust graph neural network based on graph denoising](https://arxiv.org/abs/2312.06557)|[robust_gnn](https://github.com/vmtenorio/robust_gnn)|
+|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-12-08
 |paper|code|
 |---|---|
