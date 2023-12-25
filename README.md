@@ -1,3 +1,40 @@
+## 2023-12-22
+|paper|code|
+|---|---|
+|[multimodal brain-computer interface for in-vehicle driver cognitive load measurement: dataset and baselines](https://arxiv.org/abs/2304.04273)|[cl-drive](https://github.com/prithila05/cl-drive)|
+|[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
+|[revisiting deep generalized canonical correlation analysis](https://arxiv.org/abs/2312.13455)|[revisiting-dgcca](https://github.com/pariskarakasis/revisiting-dgcca)|
+|[angle of arrival and centimeter distance estimation on a smart uwb sensor node](https://arxiv.org/abs/2312.13672)|[uwb_dualantenna_aoa](https://github.com/eth-pbl/uwb_dualantenna_aoa)|
+|[leveraging visual supervision for array-based active speaker detection and localization](https://arxiv.org/abs/2312.14021)|[leveraging-visual-supervision-for-array-based-asdl](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
+|[bayesian optimized physics-informed neural network for estimating wave propagation velocities](https://arxiv.org/abs/2312.14064)|[bopinn](https://github.com/mahindrautela/bopinn)|
+|[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
+## 2023-12-21
+|paper|code|
+|---|---|
+|[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
+|[energy-efficient spiking neural network equalization for im/dd systems with optimized neural encoding](https://arxiv.org/abs/2312.12909)|[optispike](https://github.com/kit-cel/optispike)|
+## 2023-12-20
+|paper|code|
+|---|---|
+|[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[deep plug-and-play prior for multitask channel reconstruction in massive mimo systems](https://arxiv.org/abs/2308.04728)|[pnpmt](https://github.com/wc253/pnpmt)|
+|[a study on transferability of deep learning models for network intrusion detection](https://arxiv.org/abs/2312.11550)|[transferability](https://github.com/ghosh64/transferability)|
+|[control aspects for using ris in latency-constrained mobile edge computing](https://arxiv.org/abs/2312.12025)|[mec-with-ris-control](https://github.com/victorcroisfelt/mec-with-ris-control)|
+## 2023-12-19
+|paper|code|
+|---|---|
+|[morpi: mobile robot pure inertial navigation](https://arxiv.org/abs/2207.02982)|[morpi](https://github.com/ansfl/morpi)|
+|[eat-radar: continuous fine-grained intake gesture detection using fmcw radar and 3d temporal convolutional network with attention](https://arxiv.org/abs/2211.04253)|[eat-radar](https://github.com/pituohai/eat-radar)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[channel estimation for quantized systems based on conditionally gaussian latent models](https://arxiv.org/abs/2309.04014)|[quantized_channel_estimation](https://github.com/benediktfesl/quantized_channel_estimation)|
+|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
+|[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[a refining underlying information framework for speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
+|[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
 ## 2023-12-15
 |paper|code|
 |---|---|
