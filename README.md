@@ -1,3 +1,20 @@
+## 2023-12-29
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[robust kalman filters based on the sub-gaussian $\alpha$-stable distribution](https://arxiv.org/abs/2305.07890)|[robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution](https://github.com/pengchengh/robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution)|
+|[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[a generalization of the convolution theorem and its connections to non-stationarity and the graph frequency domain](https://arxiv.org/abs/2312.16922)|[genconv](https://github.com/albertonat/genconv)|
+|[efficient physics-based learned reconstruction methods for real-time 3d near-field mimo radar imaging](https://arxiv.org/abs/2312.16959)|[efficient-learned-3d-near-field-mimo-imaging](https://github.com/metu-space-lab/efficient-learned-3d-near-field-mimo-imaging)|
+## 2023-12-27
+|paper|code|
+|---|---|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
+|[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
 ## 2023-12-22
 |paper|code|
 |---|---|
