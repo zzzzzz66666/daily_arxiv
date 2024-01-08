@@ -1,3 +1,23 @@
+## 2024-01-05
+|paper|code|
+|---|---|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
+## 2024-01-04
+|paper|code|
+|---|---|
+|[an experimental sorting method for improving metagenomic data encoding](https://arxiv.org/abs/2401.01786)|[mizar](https://github.com/cobilab/mizar)|
+|[concurrent brainstorming & hypothesis satisfying: an iterative framework for enhanced retrieval-augmented generation (r2cbr3h-sr)](https://arxiv.org/abs/2401.01835)|[r2cbr3h-sr](https://github.com/arash-shahmansoori/r2cbr3h-sr)|
+## 2024-01-03
+|paper|code|
+|---|---|
+|[data-adaptive graph framelets with generalized vanishing moments for graph signal processing](https://arxiv.org/abs/2309.03537)|[graph-involved-frame](https://github.com/zrgcityu/graph-involved-frame)|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[families of costs with zero and nonnegative mtw tensor in optimal transport](https://arxiv.org/abs/2401.00953)|[regularmtw](https://github.com/dnguyend/regularmtw)|
+## 2024-01-02
+|paper|code|
+|---|---|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
 ## 2023-12-29
 |paper|code|
 |---|---|
