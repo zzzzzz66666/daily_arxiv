@@ -1,3 +1,33 @@
+## 2024-01-12
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[online action recognition for human risk prediction with anticipated haptic alert via wearables](https://arxiv.org/abs/2401.05365)|[paper_guo_2023_humanoids_lifting_risk_prediction](https://github.com/ami-iit/paper_guo_2023_humanoids_lifting_risk_prediction)|
+|[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
+|[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
+|[weiss-weinstein bound of frequency estimation error for very weak gnss signals](https://arxiv.org/abs/2401.05606)|[WWB](https://github.com/TMBOC/WWB)|
+## 2024-01-11
+|paper|code|
+|---|---|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
+## 2024-01-10
+|paper|code|
+|---|---|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[online test-time adaptation of spatial-temporal traffic flow forecasting](https://arxiv.org/abs/2401.04148)|[adcsd](https://github.com/pengxin-guo/adcsd)|
+## 2024-01-09
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[calibration-free online test-time adaptation for electroencephalography motor imagery decoding](https://arxiv.org/abs/2311.18520)|[eeg-otta](https://github.com/martinwimpff/eeg-otta)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
+|[ddd: a perceptually superior low-response-time dnn-based declipper](https://arxiv.org/abs/2401.03650)|[ddd](https://github.com/stet-stet/ddd)|
+|[lofi user scheduling for multiuser mimo wireless systems](https://arxiv.org/abs/2401.04077)|[lofi-user-scheduling](https://github.com/iip-group/lofi-user-scheduling)|
 ## 2024-01-05
 |paper|code|
 |---|---|
