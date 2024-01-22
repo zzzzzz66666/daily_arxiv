@@ -1,3 +1,34 @@
+## 2024-01-19
+|paper|code|
+|---|---|
+|[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
+|[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
+|[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
+## 2024-01-18
+|paper|code|
+|---|---|
+|[a comparative study of deep learning and iterative algorithms for joint channel estimation and signal detection](https://arxiv.org/abs/2303.03678)|[mimo_jcesd](https://github.com/j991222/mimo_jcesd)|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
+|[neural network equalizers and successive interference cancellation for bandlimited channels with a nonlinearity](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[entanglement purification with quantum ldpc codes and iterative decoding](https://arxiv.org/abs/2210.14143)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
+|[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
+|[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
+## 2024-01-17
+|paper|code|
+|---|---|
+|[resource-efficient separation transformer](https://arxiv.org/abs/2206.09507)|[speechbrain](https://github.com/speechbrain/speechbrain)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[unsupervised harmonic parameter estimation using differentiable dsp and spectral optimal transport](https://arxiv.org/abs/2312.14507)|[1d-spectral-optimal-transport](https://github.com/bernardo-torres/1d-spectral-optimal-transport)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[remaining useful life prediction for aircraft engines using lstm](https://arxiv.org/abs/2401.07590)|[rul-prediction](https://github.com/aneesperingal/rul-prediction)|
+|[calibration of an ska-low prototype station using holographic techniques](https://arxiv.org/abs/2401.08039)|[zenodo.8237885](https://zenodo.org/record/zenodo.8237885)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
 ## 2024-01-12
 |paper|code|
 |---|---|
