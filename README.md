@@ -1,3 +1,26 @@
+## 2024-02-09
+|paper|code|
+|---|---|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
+|[multi-timescale ensemble q-learning for markov decision process policy optimization](https://arxiv.org/abs/2402.05476)|[tsp_23_supplementary_file](https://github.com/talhabozkus/tsp_23_supplementary_file)|
+## 2024-02-08
+|paper|code|
+|---|---|
+|[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+## 2024-02-07
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[attention with markov: a framework for principled analysis of transformers via markov chains](https://arxiv.org/abs/2402.04161)|[markov](https://github.com/bond1995/markov)|
+## 2024-02-06
+|paper|code|
+|---|---|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[algorithms for computing the free distance of convolutional codes](https://arxiv.org/abs/2402.02982)|[algorithms-for-computing-the-free-distance-of-convolutional-codes](https://github.com/uscpr/algorithms-for-computing-the-free-distance-of-convolutional-codes)|
+|[minimum description length and generalization guarantees for representation learning](https://arxiv.org/abs/2402.03254)|[mdl_and_generalization_guarantees_for_representation_learning](https://github.com/piotrkrasnowski/mdl_and_generalization_guarantees_for_representation_learning)|
 ## 2024-02-02
 |paper|code|
 |---|---|
