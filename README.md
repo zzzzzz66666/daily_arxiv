@@ -1,3 +1,34 @@
+## 2024-02-16
+|paper|code|
+|---|---|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[improving eeg signal classification accuracy using wasserstein generative adversarial networks](https://arxiv.org/abs/2402.09453)|[eeg-wgan](https://github.com/joshparksj/eeg-wgan)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
+## 2024-02-15
+|paper|code|
+|---|---|
+|[prediction, communication, and computing duration optimization for vr video streaming](https://arxiv.org/abs/1910.13884)|[code4vr-prediction-communication-and-computing](https://github.com/xizhicher/code4vr-prediction-communication-and-computing)|
+|[introducing rsess: an open source enumerative sphere shaping implementation coded in rust](https://arxiv.org/abs/2402.08771)|[rsess](https://github.com/kit-cel/rsess)|
+|[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
+## 2024-02-14
+|paper|code|
+|---|---|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
+|[optimized gradient tracking for decentralized online learning](https://arxiv.org/abs/2306.06375)|[Optimized-Gradient-Tracking](https://github.com/Shivangi-Dubey-Sharma/Optimized-Gradient-Tracking)|
+|[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[leveraging digital cousins for ensemble q-learning in large-scale wireless networks](https://arxiv.org/abs/2402.08022)|[digital-cousins-for-ensemble-q-learning](https://github.com/talhabozkus/digital-cousins-for-ensemble-q-learning)|
+|[commodity-specific triads in the dutch inter-industry production network](https://arxiv.org/abs/2305.12179)|[numetris](https://github.com/marsmdk/numetris)|
+## 2024-02-13
+|paper|code|
+|---|---|
+|[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[design space exploration on efficient and accurate human pose estimation from sparse imu-sensing](https://arxiv.org/abs/2308.02397)|[dse-sparse-imu](https://github.com/itiv-kit/dse-sparse-imu)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[implementation of kalman filter approach for active noise control by using matlab: dynamic noise cancellation](https://arxiv.org/abs/2402.06896)|[kalman_filter_for_anc](https://github.com/shidongyuan/kalman_filter_for_anc)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
+|[tighter bounds on the information bottleneck with application to deep learning](https://arxiv.org/abs/2402.07639)|[vub](https://github.com/hopl1t/vub)|
 ## 2024-02-09
 |paper|code|
 |---|---|
