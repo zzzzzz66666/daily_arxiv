@@ -1,3 +1,30 @@
+## 2024-04-05
+|paper|code|
+|---|---|
+|[decoding natural images from eeg for object recognition](https://arxiv.org/abs/2308.13234)|[nice-eeg](https://github.com/eeyhsong/nice-eeg)|
+|[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
+## 2024-04-04
+|paper|code|
+|---|---|
+|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+## 2024-04-03
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+## 2024-04-02
+|paper|code|
+|---|---|
+|[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
+|[danse: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://arxiv.org/abs/2306.03897)|[danse-jrnl](https://github.com/saikatchatt/danse-jrnl)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[complex neural network based joint aoa and aod estimation for bistatic isac](https://arxiv.org/abs/2404.00582)|[bistatic_isac](https://github.com/salmane-s9/bistatic_isac)|
 ## 2024-03-29
 |paper|code|
 |---|---|
