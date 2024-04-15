@@ -1,3 +1,29 @@
+## 2024-04-12
+|paper|code|
+|---|---|
+|[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[trainable joint channel estimation, detection and decoding for mimo urllc systems](https://arxiv.org/abs/2404.07721)|[jcddnet](https://github.com/sunyi0101/jcddnet)|
+|[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
+|[on naisargik images of varshamov-tenengolts and helberg codes](https://arxiv.org/abs/2404.07670)|[grayvt](https://github.com/guptalab/grayvt)|
+## 2024-04-11
+|paper|code|
+|---|---|
+|[what is learnt by the learnable front-end (leaf)? adapting per-channel energy normalisation (pcen) to noisy conditions](https://arxiv.org/abs/2404.06702)|[adapting-leaf](https://github.com/hanyu-meng/adapting-leaf)|
+|[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+## 2024-04-10
+|paper|code|
+|---|---|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+|[just wing it: optimal estimation of missing mass in a markovian sequence](https://arxiv.org/abs/2404.05819)|[missing-mass](https://github.com/andrewthan/missing-mass)|
+## 2024-04-09
+|paper|code|
+|---|---|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[subspace phase retrieval](https://arxiv.org/abs/2206.02480)|[spr](https://github.com/mengchuxu97/spr)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 ## 2024-04-05
 |paper|code|
 |---|---|
