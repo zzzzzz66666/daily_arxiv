@@ -1,3 +1,38 @@
+## 2024-05-17
+|paper|code|
+|---|---|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[dynamic gnns for precise seizure detection and classification from eeg data](https://arxiv.org/abs/2405.09568)|[NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN)|
+|[language-oriented semantic latent representation for image transmission](https://arxiv.org/abs/2405.09976)|[img2img-sc](https://github.com/ispamm/img2img-sc)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+## 2024-05-16
+|paper|code|
+|---|---|
+|[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
+|[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
+|[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
+## 2024-05-15
+|paper|code|
+|---|---|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
+## 2024-05-14
+|paper|code|
+|---|---|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[prospects for ai-enhanced ecg as a unified screening tool for cardiac and non-cardiac conditions -- an explorative study in emergency care](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[neuronet: a novel hybrid self-supervised learning framework for sleep stage classification using single-channel eeg](https://arxiv.org/abs/2404.17585)|[NeuroNet](https://github.com/dlcjfgmlnasa/NeuroNet)|
+|[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
+|[a supervised information enhanced multi-granularity contrastive learning framework for eeg based emotion recognition](https://arxiv.org/abs/2405.07260)|[si-cleer](https://github.com/muzixiang/si-cleer)|
+|[transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481)|[transition-role-of-entangled-data-in-qml](https://github.com/wangxinbiao08/transition-role-of-entangled-data-in-qml)|
+|[texshape: information theoretic sentence embedding for language models](https://arxiv.org/abs/2402.05132)|[neuralinformationshaping](https://github.com/hesfahanizadeh/neuralinformationshaping)|
+|[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
+|[partial information decomposition as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-05-10
 |paper|code|
 |---|---|
