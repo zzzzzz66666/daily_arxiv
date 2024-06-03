@@ -1,3 +1,30 @@
+## 2024-05-31
+|paper|code|
+|---|---|
+|[a large-scale evaluation of speech foundation models](https://arxiv.org/abs/2404.09385)|[s3prl](https://github.com/s3prl/s3prl)|
+## 2024-05-30
+|paper|code|
+|---|---|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
+|[on the properties and estimation of pointwise mutual information profiles](https://arxiv.org/abs/2310.10240)|[bmi](https://github.com/cbg-ethz/bmi)|
+|[track initialization and re-identification for~3d multi-view multi-object tracking](https://arxiv.org/abs/2405.18606)|[mv-glmb-ab](https://github.com/linh-gist/mv-glmb-ab)|
+## 2024-05-29
+|paper|code|
+|---|---|
+|[assessment of unsteady flow predictions using hybrid deep learning based reduced order models](https://arxiv.org/abs/2009.04396)|[Assessment-of-hybrid-DLROM](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM)|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[sleepfm: multi-modal representation learning for sleep across brain activity, ecg and respiratory signals](https://arxiv.org/abs/2405.17766)|[sleepfm-codebase](https://github.com/rthapa84/sleepfm-codebase)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[mambavc: learned visual compression with selective state spaces](https://arxiv.org/abs/2405.15413)|[2024-mambavc](https://github.com/qinsy123/2024-mambavc)|
+## 2024-05-28
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
 ## 2024-05-24
 |paper|code|
 |---|---|
