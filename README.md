@@ -1,3 +1,26 @@
+## 2024-06-21
+|paper|code|
+|---|---|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[on the inductive biases of demographic parity-based fair learning algorithms](https://arxiv.org/abs/2402.18129)|[fairness-ib](https://github.com/lh218/fairness-ib)|
+## 2024-06-19
+|paper|code|
+|---|---|
+|[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[interpretable modulated differentiable stft and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
+|[a comparative analysis of the ensemble methods for drug design](https://arxiv.org/abs/2012.07640)|[Comparative-Analysis](https://github.com/rifqat/Comparative-Analysis)|
+## 2024-06-18
+|paper|code|
+|---|---|
+|[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[a decoupled approach for composite sparse-plus-smooth penalized optimization](https://arxiv.org/abs/2403.05204)|[compositesps](https://github.com/adriaj/compositesps)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[full reference point cloud quality assessment using support vector regression](https://arxiv.org/abs/2406.10520)|[frsvr-pcqa](https://github.com/stac-usc/frsvr-pcqa)|
+|[deep-reinforcement-learning-based aoi-aware resource allocation for ris-aided iov networks](https://arxiv.org/abs/2406.11245)|[ris-rb-aoi-v2x-drl](https://github.com/qiongwu86/ris-rb-aoi-v2x-drl)|
+|[reconfigurable intelligent surface assisted vec based on multi-agent reinforcement learning](https://arxiv.org/abs/2406.11318)|[ris-vec-marl](https://github.com/qiongwu86/ris-vec-marl)|
+|[an efficient frequency diversity scheme for ultra-reliable communications in two-path fading channels](https://arxiv.org/abs/2206.13459)|[two-ray-ultra-reliability](https://github.com/klb2/two-ray-ultra-reliability)|
+|[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
 ## 2024-06-14
 |paper|code|
 |---|---|
