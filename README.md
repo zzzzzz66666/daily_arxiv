@@ -1,3 +1,37 @@
+## 2024-06-28
+|paper|code|
+|---|---|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
+|[partial information decomposition: redundancy as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
+|[local to global: learning dynamics and effect of initialization for transformers](https://arxiv.org/abs/2406.03072)|[markov](https://github.com/bond1995/markov)|
+## 2024-06-27
+|paper|code|
+|---|---|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[whalenet: a novel deep learning architecture for marine mammals vocalizations on watkins marine mammal sound database](https://arxiv.org/abs/2402.17775)|[whalenet](https://github.com/alelicciardi99/whalenet)|
+|[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[benchmarking mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+## 2024-06-26
+|paper|code|
+|---|---|
+|[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[a multi-resolution mutual learning network for multi-label ecg classification](https://arxiv.org/abs/2406.16928)|[mrm](https://github.com/wxhdf/mrm)|
+|[xi-net: transformer based seismic waveform reconstructor](https://arxiv.org/abs/2406.16932)|[waveformreconstructor](https://github.com/anshuman04/waveformreconstructor)|
+|[constructing structured tensor priors for bayesian inverse problems](https://arxiv.org/abs/2406.17597)|[AbTensors](https://github.com/TUDelft-DeTAIL/AbTensors)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+## 2024-06-25
+|paper|code|
+|---|---|
+|[motion-robust free-running volumetric cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[markov chain monte carlo multi-scan data association for sets of trajectories](https://arxiv.org/abs/2312.03423)|[batch-tpmbm-using-mcmc-sampling](https://github.com/yuhsuansia/batch-tpmbm-using-mcmc-sampling)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[automatic ai model selection for wireless systems: online learning via digital twinning](https://arxiv.org/abs/2406.15819)|[DT-powered-AMS](https://github.com/qiushuo0913/DT-powered-AMS)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2024-06-21
 |paper|code|
 |---|---|
