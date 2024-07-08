@@ -1,3 +1,20 @@
+## 2024-07-04
+|paper|code|
+|---|---|
+|[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+## 2024-07-03
+|paper|code|
+|---|---|
+|[deep imbalanced regression to estimate vascular age from ppg data: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2406.14953)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+## 2024-07-02
+|paper|code|
+|---|---|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[srvit: vision transformers for estimating radar reflectivity from satellite observations at scale](https://arxiv.org/abs/2406.16955)|[srvit](https://github.com/stockeh/srvit)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[neural distributed source coding](https://arxiv.org/abs/2106.02797)|[neural-dsc](https://github.com/acnagle/neural-dsc)|
+|[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
 ## 2024-06-28
 |paper|code|
 |---|---|
