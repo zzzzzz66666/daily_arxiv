@@ -1,3 +1,29 @@
+## 2024-07-12
+|paper|code|
+|---|---|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
+|[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
+## 2024-07-11
+|paper|code|
+|---|---|
+|[principal component analysis in space forms](https://arxiv.org/abs/2301.02750)|[HoroPCA](https://github.com/HazyResearch/HoroPCA)|
+|[a coding-theoretic analysis of hyperspherical prototypical learning geometry](https://arxiv.org/abs/2407.07664)|[coding_theoretic_hpl](https://github.com/martinlindstrom/coding_theoretic_hpl)|
+## 2024-07-10
+|paper|code|
+|---|---|
+|[subject-adaptive transfer learning using resting state eeg signals for cross-subject eeg motor imagery classification](https://arxiv.org/abs/2405.19346)|[miccai2024-restl](https://github.com/sionan/miccai2024-restl)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+## 2024-07-09
+|paper|code|
+|---|---|
+|[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
+|[information limits and thouless-anderson-palmer equations for spiked matrix models with structured noise](https://arxiv.org/abs/2405.20993)|[spiked-matrix-models-with-structured-noise](https://github.com/xu-yz19/spiked-matrix-models-with-structured-noise)|
+|[rpn: reconciled polynomial network towards unifying pgms, kernel svms, mlp and kan](https://arxiv.org/abs/2407.04819)|[tinyBIG](https://github.com/jwzhanggy/tinyBIG)|
 ## 2024-07-04
 |paper|code|
 |---|---|
