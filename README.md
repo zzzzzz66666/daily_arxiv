@@ -1,3 +1,37 @@
+## 2024-07-19
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[advanced mathematical modelling for energy-efficient data transmission and fusion in wireless sensor networks](https://arxiv.org/abs/2407.12806)|[bpnn_wsn](https://github.com/hikomal/bpnn_wsn)|
+|[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
+|[an empirical investigation into the time and frequency response characteristics of hopf resonators](https://arxiv.org/abs/2407.13629)|[DetectorBank](https://github.com/keziah55/DetectorBank)|
+|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
+|[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
+|[non-asymptotic uncertainty quantification in high-dimensional learning](https://arxiv.org/abs/2407.13666)|[UQ_high_dim_learning](https://github.com/frederikhoppe/UQ_high_dim_learning)|
+## 2024-07-18
+|paper|code|
+|---|---|
+|[luvira dataset validation and discussion: comparing vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2309.02961)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
+|[mmvr: millimeter-wave multi-view radar dataset and benchmark for indoor perception](https://arxiv.org/abs/2406.10708)|[12611978](https://zenodo.org/record/12611978)|
+## 2024-07-17
+|paper|code|
+|---|---|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+|[joint data inpainting and graph learning via unrolled neural networks](https://arxiv.org/abs/2407.11429)|[Graph-Learning-via-Unrolling](https://github.com/PushkalM11/Graph-Learning-via-Unrolling)|
+|[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
+## 2024-07-16
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[biased backpressure routing using link features and graph neural networks](https://arxiv.org/abs/2407.09753)|[dutybp](https://github.com/zhongyuanzhao/dutybp)|
+|[type-based unsourced multiple access](https://arxiv.org/abs/2404.19552)|[TUMA](https://github.com/khachoang1412/TUMA)|
+|[group projected subspace pursuit for block sparse signal reconstruction: convergence analysis and applications](https://arxiv.org/abs/2407.07707)|[BlockSparse](https://github.com/RoyYuchenHe/BlockSparse)|
+|[fast and provable simultaneous blind super-resolution and demixing for point source signals: scaled gradient descent without regularization](https://arxiv.org/abs/2407.09900)|[Simultaneous-Blind-Super-Resolution-and-Demixing](https://github.com/jcchen2017/Simultaneous-Blind-Super-Resolution-and-Demixing)|
 ## 2024-07-12
 |paper|code|
 |---|---|
