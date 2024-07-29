@@ -1,3 +1,33 @@
+## 2024-07-26
+|paper|code|
+|---|---|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[detection of manatee vocalisations using the audio spectrogram transformer](https://arxiv.org/abs/2407.18083)|[manatees](https://github.com/tdewolff/manatees)|
+|[scaling training data with lossy image compression](https://arxiv.org/abs/2407.17954)|[lossycompressionscalingkdd2024](https://github.com/granica-ai/lossycompressionscalingkdd2024)|
+## 2024-07-25
+|paper|code|
+|---|---|
+|[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
+|[toward real-time digital twins of em environments: computational benchmark of ray launching software](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
+|[probing the information theoretical roots of spatial dependence measures](https://arxiv.org/abs/2405.18459)|[spatial-self-information](https://github.com/octopolugal/spatial-self-information)|
+## 2024-07-24
+|paper|code|
+|---|---|
+|[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[dc is all you need: describing relu from a signal processing standpoint](https://arxiv.org/abs/2407.16556)|[relu_dc_is_all_you_need](https://github.com/esl-epfl/relu_dc_is_all_you_need)|
+## 2024-07-23
+|paper|code|
+|---|---|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[dreamer: dual-ris-aided imager in complementary modes](https://arxiv.org/abs/2407.14820)|[dreamer](https://github.com/fuhaiwang/dreamer)|
+|[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
+|[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
 ## 2024-07-19
 |paper|code|
 |---|---|
