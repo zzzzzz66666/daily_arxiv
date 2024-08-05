@@ -1,3 +1,26 @@
+## 2024-08-02
+|paper|code|
+|---|---|
+|[localization of brain activity from eeg/meg using mv-pure framework](https://arxiv.org/abs/1809.03930)|[supFunSim](https://github.com/IS-UMK/supFunSim)|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+## 2024-08-01
+|paper|code|
+|---|---|
+|[k-deep simplex: deep manifold learning via local dictionaries](https://arxiv.org/abs/2012.02134)|[manifold-learning-with-simplex-constraints](https://github.com/pbt17/manifold-learning-with-simplex-constraints)|
+|[sleepyco: automatic sleep scoring with feature pyramid and contrastive learning](https://arxiv.org/abs/2209.09452)|[sleepyco](https://github.com/gist-ailab/sleepyco)|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[an exact theory of causal emergence for linear stochastic iteration systems](https://arxiv.org/abs/2405.09207)|[an_exact_causal_emergence_theory](https://github.com/kilovoltage/an_exact_causal_emergence_theory)|
+## 2024-07-31
+|paper|code|
+|---|---|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[edge learning based collaborative automatic modulation classification for hierarchical cognitive radio networks](https://arxiv.org/abs/2407.20772)|[CAMC](https://github.com/AI4CogComm/CAMC)|
+## 2024-07-30
+|paper|code|
+|---|---|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
 ## 2024-07-26
 |paper|code|
 |---|---|
