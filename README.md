@@ -1,3 +1,24 @@
+## 2024-08-09
+|paper|code|
+|---|---|
+|[exploiting structure in quantum relative entropy programs](https://arxiv.org/abs/2407.00241)|[qrep-structure](https://github.com/kerry-he/qrep-structure)|
+## 2024-08-08
+|paper|code|
+|---|---|
+|[exploiting semantic localization in highly dynamic wireless networks using deep homoscedastic domain adaptation](https://arxiv.org/abs/2310.07792)|[semanticloc](https://github.com/leo-chu/semanticloc)|
+|[telco-rag: navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/abs/2404.15939)|[telco-rag](https://github.com/netop-team/telco-rag)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
+## 2024-08-07
+|paper|code|
+|---|---|
+|[comparison analysis between standard polysomnographic data and in-ear-eeg signals: a preliminary study](https://arxiv.org/abs/2401.10107)|[in_ear_eeg_vs_psg](https://github.com/gianpaolopalo13/in_ear_eeg_vs_psg)|
+## 2024-08-06
+|paper|code|
+|---|---|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-08-02
 |paper|code|
 |---|---|
