@@ -1,3 +1,43 @@
+## 2024-08-31
+|paper|code|
+|---|---|
+|[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
+## 2024-08-30
+|paper|code|
+|---|---|
+|[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
+|[espargos: phase-coherent wifi csi datasets for wireless sensing research](https://arxiv.org/abs/2408.16377)|[espargos-wifi-channelcharting](https://github.com/jeija/espargos-wifi-channelcharting)|
+|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
+|[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
+|[protograph-based batched network codes](https://arxiv.org/abs/2408.16365)|[bnc](https://github.com/zhu-mingyang/bnc)|
+## 2024-08-29
+|paper|code|
+|---|---|
+|[geometric neural network based on phase space for bci-eeg decoding](https://arxiv.org/abs/2403.05645)|[Phase-SPDNet](https://github.com/carraraig/Phase-SPDNet)|
+|[es-ptam: event-based stereo parallel tracking and mapping](https://arxiv.org/abs/2408.15605)|[es-ptam](https://github.com/tub-rip/es-ptam)|
+## 2024-08-28
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[graph gospa metric: a metric to measure the discrepancy between graphs of different sizes](https://arxiv.org/abs/2311.07596)|[the-graph-gospa-metric](https://github.com/jinhaogu/the-graph-gospa-metric)|
+|[neural network-based successive interference cancellation for non-linear bandlimited channels](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
+|[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
+## 2024-08-27
+|paper|code|
+|---|---|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
+|[interpretable and robust ai in eeg systems: a survey](https://arxiv.org/abs/2304.10755)|[survey](https://github.com/xinliangzhou/survey)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[wi-bfi: extracting the ieee 802.11 beamforming feedback information from commercial wi-fi devices](https://arxiv.org/abs/2309.04408)|[wi-bfi](https://github.com/kfoysalhaque/wi-bfi)|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[topological filtering of a signal over a network](https://arxiv.org/abs/2408.14109)|[topapprox](https://github.com/mvlier/topapprox)|
+|[reduce computational complexity for continuous wavelet transform in acoustic recognition using hop size](https://arxiv.org/abs/2408.14302)|[Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[hrgraph: leveraging llms for hr data knowledge graphs with information propagation-based job recommendation](https://arxiv.org/abs/2408.13521)|[hrgraph](https://github.com/azminewasi/hrgraph)|
 ## 2024-08-23
 |paper|code|
 |---|---|
