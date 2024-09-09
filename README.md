@@ -1,3 +1,22 @@
+## 2024-09-06
+|paper|code|
+|---|---|
+|[an efficient frequency diversity scheme for ultra-reliable communications in two-path fading channels](https://arxiv.org/abs/2206.13459)|[two-ray-ultra-reliability](https://github.com/klb2/two-ray-ultra-reliability)|
+## 2024-09-05
+|paper|code|
+|---|---|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+## 2024-09-04
+|paper|code|
+|---|---|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[HS-Dataset](https://github.com/sani002/HS-Dataset)|
+|[unsure: unknown noise level stein's unbiased risk estimator](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
 ## 2024-08-31
 |paper|code|
 |---|---|
