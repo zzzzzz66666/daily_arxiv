@@ -1,3 +1,31 @@
+## 2024-09-13
+|paper|code|
+|---|---|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[domain adaptation for doa estimation in multipath channels with interferences](https://arxiv.org/abs/2409.07782)|[domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)|
+|[identification of head impact locations, speeds, and force based on head kinematics](https://arxiv.org/abs/2409.08177)|[impact_retriever](https://github.com/xzhan96-stf/impact_retriever)|
+## 2024-09-12
+|paper|code|
+|---|---|
+|[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
+## 2024-09-11
+|paper|code|
+|---|---|
+|[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
+|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[can large language models learn independent causal mechanisms?](https://arxiv.org/abs/2402.02636)|[modular-lm](https://github.com/strong-ai-lab/modular-lm)|
+## 2024-09-10
+|paper|code|
+|---|---|
+|[doubly-iterative sparsified mmse turbo equalization for otfs modulation](https://arxiv.org/abs/2207.00866)|[dismmse-turbo-equalizer-for-otfs](https://github.com/alga53/dismmse-turbo-equalizer-for-otfs)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[adaptive $k$-nearest neighbor classifier based on the local estimation of the shape operator](https://arxiv.org/abs/2409.05084)|[kknn](https://github.com/alexandrelevada/kknn)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 ## 2024-09-06
 |paper|code|
 |---|---|
