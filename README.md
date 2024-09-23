@@ -1,3 +1,28 @@
+## 2024-09-20
+|paper|code|
+|---|---|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+## 2024-09-19
+|paper|code|
+|---|---|
+|[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
+## 2024-09-18
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
+|[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
+## 2024-09-17
+|paper|code|
+|---|---|
+|[interpretable ecg analysis for myocardial infarction detection through counterfactuals](https://arxiv.org/abs/2312.08304)|[vcce](https://github.com/tanyelai/vcce)|
+|[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
+|[hyperedge representations with hypergraph wavelets: applications to spatial transcriptomics](https://arxiv.org/abs/2409.09469)|[hypergraph-wavelets](https://github.com/KrishnaswamyLab/hypergraph-wavelets)|
+|[harnessing the power of federated learning in federated contextual bandits](https://arxiv.org/abs/2312.16341)|[fedigw](https://github.com/shengroup/fedigw)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 ## 2024-09-13
 |paper|code|
 |---|---|
