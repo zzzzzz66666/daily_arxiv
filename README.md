@@ -1,3 +1,27 @@
+## 2024-10-16
+|paper|code|
+|---|---|
+|[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
+|[null models for comparing information decomposition across complex systems](https://arxiv.org/abs/2410.11583)|[numit](https://github.com/alberto-liardi/numit)|
+## 2024-10-15
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[temporal action localization for inertial-based human activity recognition](https://arxiv.org/abs/2311.15831)|[tal_for_har](https://github.com/mariusbock/tal_for_har)|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[channel correlation matrix extrapolation based on roughness calibration of scatterers](https://arxiv.org/abs/2409.10900)|[CCM-Extrapolation](https://github.com/zhanghl24/CCM-Extrapolation)|
+|[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
+|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
+|[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
+|[wand: wavelet analysis-based neural decomposition of mrs signals for artifact removal](https://arxiv.org/abs/2410.10427)|[wand-for-mrs](https://github.com/julianmer/wand-for-mrs)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
+|[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
+|[a deep learning based decoder for concatenated coding over deletion channels](https://arxiv.org/abs/2410.09460)|[DNN-for-Deletion-Channel](https://github.com/Bilkent-CTAR-Lab/DNN-for-Deletion-Channel)|
 ## 2024-10-11
 |paper|code|
 |---|---|
