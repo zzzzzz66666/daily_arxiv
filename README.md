@@ -1,3 +1,52 @@
+## 2024-10-27
+|paper|code|
+|---|---|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
+## 2024-10-25
+|paper|code|
+|---|---|
+|[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
+|[ecg semantic integrator (esi): a foundation ecg model pretrained with llm-enhanced cardiological text](https://arxiv.org/abs/2405.19366)|[esi](https://github.com/comp-well-org/esi)|
+|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[wavetablecvae](https://github.com/tsugumasa320/wavetablecvae)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+|[striking a new chord: neural networks in music information dynamics](https://arxiv.org/abs/2410.17989)|[SeqLab](https://github.com/frshdjfry/SeqLab)|
+## 2024-10-24
+|paper|code|
+|---|---|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
+|[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
+## 2024-10-23
+|paper|code|
+|---|---|
+|[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[low-coherence sequence design under papr constraints](https://arxiv.org/abs/2407.21400)|[ieee-wcl-loceda](https://github.com/gangle-sun/ieee-wcl-loceda)|
+|[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
+|[delay-constrained grant-free random access in mimo systems: distributed pilot allocation and power control](https://arxiv.org/abs/2410.17068)|[pymarl](https://github.com/oxwhirl/pymarl)|
+## 2024-10-22
+|paper|code|
+|---|---|
+|[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-in-receivers-for-decoding](https://github.com/tomerraviv95/bayesian-learning-in-receivers-for-decoding)|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
+|[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[experimental analysis of the trc benchmark system](https://arxiv.org/abs/2403.07438)|[](https://github.com/maltekrack/NLtest/blob/main/TESTRIGS/01_TRChallenge/)|
+|[improving galileo osnma time to first authenticated fix](https://arxiv.org/abs/2403.14739)|[osnma](https://github.com/algafix/osnma)|
+|[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
+|[medformer: a multi-granularity patching transformer for medical time-series classification](https://arxiv.org/abs/2405.19363)|[medformer](https://github.com/dl4mhealth/medformer)|
+|[automatic ai model selection for wireless systems: online learning via digital twinning](https://arxiv.org/abs/2406.15819)|[DT-powered-AMS](https://github.com/qiushuo0913/DT-powered-AMS)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[upper limb surface electromyography -- geometry, spectral characteristics, temporal evolution, and demographic confounds](https://arxiv.org/abs/2409.19939)|[wristEMG](https://github.com/HarshavardhanaTG/wristEMG)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[unlocking the full potential of high-density surface emg: novel non-invasive high-yield motor unit decomposition](https://arxiv.org/abs/2410.14800)|[swarm-contrastive-decomposition](https://github.com/AgneGris/swarm-contrastive-decomposition)|
+|[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
+|[blind equalization using a variational autoencoder with second order volterra channel model](https://arxiv.org/abs/2410.16125)|[volterra-vae](https://github.com/sfvnielsen/volterra-vae)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+|[attempting the impossible: enumerating extremal submodular functions for n=6](https://arxiv.org/abs/2410.15502)|[submodular-functions-6](https://github.com/csirmaz/submodular-functions-6)|
 ## 2024-10-16
 |paper|code|
 |---|---|
