@@ -1,3 +1,36 @@
+## 2024-11-08
+|paper|code|
+|---|---|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
+|[higher-order gnns meet efficiency: sparse sobolev graph neural networks](https://arxiv.org/abs/2411.04570)|[S2-GNN](https://github.com/jhonygiraldo/S2-GNN)|
+|[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
+## 2024-11-07
+|paper|code|
+|---|---|
+|[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
+|[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
+|[towards entropic constraints on quantum speedups](https://arxiv.org/abs/2411.03439)|[QI_Research](https://github.com/DylanJVA/QI_Research)|
+|[soft reverse reconciliation for discrete modulations](https://arxiv.org/abs/2411.04063)|[qam-reconciliation](https://github.com/moriglia/qam-reconciliation)|
+|[learned codes for broadcast channels with feedback](https://arxiv.org/abs/2411.04083)|[gbcf](https://github.com/zyy-cc/gbcf)|
+## 2024-11-06
+|paper|code|
+|---|---|
+|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[filternet: harnessing frequency filters for time series forecasting](https://arxiv.org/abs/2411.01623)|[filternet](https://github.com/aikunyi/filternet)|
+|[nmformer: a transformer for noisy modulation classification in wireless communication](https://arxiv.org/abs/2411.02428)|[NMformer](https://github.com/atik666/NMformer)|
+|[conditional vendi score: an information-theoretic approach to diversity evaluation of prompt-based generative models](https://arxiv.org/abs/2411.02817)|[conditional-vendi](https://github.com/mjalali/conditional-vendi)|
+## 2024-11-05
+|paper|code|
+|---|---|
+|[spectral clustering via orthogonalization-free methods](https://arxiv.org/abs/2305.10356)|[distributedlevp.jl](https://github.com/qiyuanpang/distributedlevp.jl)|
+|[synthesizing eeg signals from event-related potential paradigms with conditional diffusion models](https://arxiv.org/abs/2403.18486)|[Conditional-EEG-Diffusion](https://github.com/guido151/Conditional-EEG-Diffusion)|
+|[refining adhd diagnosis with eeg: the impact of preprocessing and temporal segmentation on classification accuracy](https://arxiv.org/abs/2407.08316)|[refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation](https://gitlab.com/lucentia/refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[enhancing glucose level prediction of icu patients through irregular time-series analysis and integrated representation](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[multimodal trustworthy semantic communication for audio-visual event localization](https://arxiv.org/abs/2411.01991)|[MU_SC_for_VQA](https://github.com/dimlight13/MU_SC_for_VQA)|
 ## 2024-11-01
 |paper|code|
 |---|---|
