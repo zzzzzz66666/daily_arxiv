@@ -1,3 +1,37 @@
+## 2024-11-15
+|paper|code|
+|---|---|
+|[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
+|[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
+## 2024-11-14
+|paper|code|
+|---|---|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[inferring directed spectral information flow between mixed-frequency time series](https://arxiv.org/abs/2408.06109)|[mf-tfcca](https://github.com/qiqixian/mf-tfcca)|
+|[large wireless model (lwm): a foundation model for wireless channels](https://arxiv.org/abs/2411.08872)|[lwm](https://huggingface.co/wi-lab/lwm)|
+|[explainable enrichment-driven graph reasoner (edgar) for large knowledge graphs with applications in drug repurposing](https://arxiv.org/abs/2409.18659)|[edgar](https://github.com/ranking-agent/edgar)|
+|[variable-length feedback codes via deep learning](https://arxiv.org/abs/2411.08481)|[DeepVLF](https://github.com/lynshao/DeepVLF)|
+## 2024-11-13
+|paper|code|
+|---|---|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[soundsil-ds: deep denoising and segmentation of sound-field images with silhouettes](https://arxiv.org/abs/2411.07517)|[soundsil-ds](https://github.com/nttcslab/soundsil-ds)|
+|[model reconstruction using counterfactual explanations: a perspective from polytope theory](https://arxiv.org/abs/2405.05369)|[model-reconstruction-using-counterfactuals](https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals)|
+## 2024-11-12
+|paper|code|
+|---|---|
+|[deep riemannian networks for end-to-end eeg decoding](https://arxiv.org/abs/2212.10426)|[eegspdnet](https://github.com/dcwil/eegspdnet)|
+|[orchestration framework for open system models with autonomous riss and oblivious base stations](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[mutual information estimation via $f$-divergence and data derangements](https://arxiv.org/abs/2305.20025)|[fdime](https://github.com/tonellolab/fdime)|
+|[magnetic hysteresis modeling with neural operators](https://arxiv.org/abs/2407.03261)|[magnetic_hysteresis_neural_operator](https://github.com/chandratue/magnetic_hysteresis_neural_operator)|
+|[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[deepcrf: deep learning-enhanced csi-based rf fingerprinting for channel-resilient wifi device identification](https://arxiv.org/abs/2411.06925)|[DeepCRF_TIFS](https://github.com/Oriseven/DeepCRF_TIFS)|
+|[ultra-marginal feature importance: learning from data with causal guarantees](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/hydroml/umfi)|
+|[universal exact compression of differentially private mechanisms](https://arxiv.org/abs/2405.20782)|[poissonprivaterepr](https://github.com/cheuktingli/poissonprivaterepr)|
+|[understanding the role of equivariance in self-supervised learning](https://arxiv.org/abs/2411.06508)|[understanding-essl](https://github.com/kaotty/understanding-essl)|
 ## 2024-11-08
 |paper|code|
 |---|---|
