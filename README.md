@@ -1,3 +1,32 @@
+## 2024-11-28
+|paper|code|
+|---|---|
+|[over-the-air learning-based geometry point cloud transmission](https://arxiv.org/abs/2306.08730)|[SEPT](https://github.com/aprilbian/SEPT)|
+|[calibrated adaptive teacher for domain adaptive intelligent fault diagnosis](https://arxiv.org/abs/2312.02826)|[cat](https://github.com/epfl-imos/cat)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[swim: short-window cnn integrated with mamba for eeg-based auditory spatial attention decoding](https://arxiv.org/abs/2409.19884)|[swim-asad](https://github.com/windowso/swim-asad)|
+|[finding "good views" of electrocardiogram signals for inferring abnormalities in cardiac condition](https://arxiv.org/abs/2411.17702)|[goodviews_ecg](https://github.com/mandiehyewon/goodviews_ecg)|
+|[analytic continuation by feature learning](https://arxiv.org/abs/2411.17728)|[Analytic-Continuation-by-Feature-Learning](https://github.com/Order-inz/Analytic-Continuation-by-Feature-Learning)|
+|[the more, the better? evaluating the role of eeg preprocessing for deep learning applications](https://arxiv.org/abs/2411.18392)|[eegprepro](https://github.com/medmaxlab/eegprepro)|
+|[surveying the space of descriptions of a composite system with machine learning](https://arxiv.org/abs/2411.18579)|[description_space](https://github.com/murphyka/description_space)|
+## 2024-11-27
+|paper|code|
+|---|---|
+|[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
+|[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
+|[fast and robust phase retrieval via deep expectation-consistent approximation](https://arxiv.org/abs/2407.09687)|[deepECpr](https://github.com/Saurav-K-Shastri/deepECpr)|
+## 2024-11-26
+|paper|code|
+|---|---|
+|[efficient wireless federated learning via low-rank gradient factorization](https://arxiv.org/abs/2401.07496)|[ota-lc](https://github.com/mingzhaoguo/ota-lc)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[mecg-e: mamba-based ecg enhancer for baseline wander removal](https://arxiv.org/abs/2409.18828)|[MECG-E](https://github.com/khhungg/MECG-E)|
+|[robust hybrid precoding for millimeter wave mu-miso system via meta-learning](https://arxiv.org/abs/2411.15762)|[ggml](https://github.com/mistybeep/ggml)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
+|[run-length-limited isi-mitigation (rlim) coding for molecular communication](https://arxiv.org/abs/2411.15955)|[mcchannelcoding](https://github.com/melihsahinedu/mcchannelcoding)|
 ## 2024-11-22
 |paper|code|
 |---|---|
