@@ -1,3 +1,38 @@
+## 2024-12-06
+|paper|code|
+|---|---|
+|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
+## 2024-12-05
+|paper|code|
+|---|---|
+|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[ts2vvg](https://github.com/raffoliveira/ts2vvg)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+## 2024-12-04
+|paper|code|
+|---|---|
+|[pitn: physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
+## 2024-12-03
+|paper|code|
+|---|---|
+|[robust graph filter identification and graph denoising from signal observations](https://arxiv.org/abs/2210.08488)|[graph_denoising](https://github.com/reysam93/graph_denoising)|
+|[recurrences reveal shared causal drivers of complex time series](https://arxiv.org/abs/2301.13516)|[shrec](https://github.com/williamgilpin/shrec)|
+|[kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2310.07869)|[dsr](https://github.com/yanbinhe/dsr)|
+|[doorinet: door heading prediction through inertial deep learning](https://arxiv.org/abs/2402.09427)|[doorinet](https://github.com/ansfl/doorinet)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[soundscape captioning using sound affective quality network and large language model](https://arxiv.org/abs/2406.05914)|[soundscaper](https://github.com/yuanbo2020/soundscaper)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[snake-inspired mobile robot positioning with hybrid learning](https://arxiv.org/abs/2411.17430)|[MoRPINet](https://github.com/ansfl/MoRPINet)|
+|[frequency-selective beamforming and single-shot beam training with dynamic metasurface antennas](https://arxiv.org/abs/2412.00215)|[FreqSelBeamformingBeamtrainingDMAs](https://github.com/nvdeshpa/FreqSelBeamformingBeamtrainingDMAs)|
+|[efficient off-grid bayesian parameter estimation for kronecker-structured signals](https://arxiv.org/abs/2412.00310)|[JournalDecomOffGrid](https://github.com/YanbinHe/JournalDecomOffGrid)|
+|[differentiable high-order markov models for spectrum prediction](https://arxiv.org/abs/2412.00328)|[Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction](https://github.com/corlay-MERCE/Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction)|
+|[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
+|[toward real-time edge ai: model-agnostic task-oriented communication with visual feature alignment](https://arxiv.org/abs/2412.00862)|[feature-alignment-TOC](https://github.com/SongjieXie/feature-alignment-TOC)|
+|[state noise density identification of ltv system by kernel deconvolution](https://arxiv.org/abs/2412.01424)|[StateNoisePDFIdentification](https://github.com/IDM-UWB/StateNoisePDFIdentification)|
+|[structure-guided input graph for gnns facing heterophily](https://arxiv.org/abs/2412.01757)|[sg-gnn](https://github.com/vmtenorio/sg-gnn)|
+|[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2024-11-28
 |paper|code|
 |---|---|
