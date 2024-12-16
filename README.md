@@ -1,3 +1,28 @@
+## 2024-12-13
+|paper|code|
+|---|---|
+|[high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[learned compression for compressed learning](https://arxiv.org/abs/2412.09405)|[LCCL](https://github.com/danjacobellis/LCCL)|
+## 2024-12-11
+|paper|code|
+|---|---|
+|[brsr-opgan: blind radar signal restoration using operational generative adversarial network](https://arxiv.org/abs/2407.13949)|[BRSR-OpGAN](https://github.com/MUzairZahid/BRSR-OpGAN)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[explainable machine learning for neoplasms diagnosis via electrocardiograms: an externally validated study](https://arxiv.org/abs/2412.07737)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[superficial consciousness hypothesis for autoregressive transformers](https://arxiv.org/abs/2412.07278)|[phimesasi](https://github.com/hirethehero/phimesasi)|
+## 2024-12-10
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[finding the missing data: a bert-inspired approach against package loss in wireless sensing](https://arxiv.org/abs/2403.12400)|[csi-bert](https://github.com/rs2002/csi-bert)|
+|[attention-aware semantic communications for collaborative inference](https://arxiv.org/abs/2404.07217)|[semantic-attention](https://github.com/iil-postech/semantic-attention)|
+|[continuous sleep depth index annotation with deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[surpassing cosine similarity for multidimensional comparisons: dimension insensitive euclidean metric (diem)](https://arxiv.org/abs/2407.08623)|[diem](https://github.com/ftessari23/diem)|
+|[what if we had used a different app? reliable counterfactual kpi analysis in wireless systems](https://arxiv.org/abs/2410.00150)|[inference_dt_code](https://github.com/qiushuo0913/inference_dt_code)|
+|[resolution-adaptive micro-doppler spectrogram for human activity recognition](https://arxiv.org/abs/2411.15057)|[resolution-adaptive-spectrogram](https://github.com/signal-park/resolution-adaptive-spectrogram)|
+|[forte : finding outliers with representation typicality estimation](https://arxiv.org/abs/2410.01322)|[forte](https://github.com/DebarghaG/forte)|
 ## 2024-12-06
 |paper|code|
 |---|---|
