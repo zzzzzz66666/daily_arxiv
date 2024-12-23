@@ -1,3 +1,38 @@
+## 2024-12-20
+|paper|code|
+|---|---|
+|[fft and orthogonal discrete transform on weight lattices of semi-simple lie groups](https://arxiv.org/abs/1901.06254)|[basis-change-Chebyshev-transforms](https://github.com/bseifert-HSA/basis-change-Chebyshev-transforms)|
+|[from analog to digital: multi-order digital joint coding-modulation for semantic communication](https://arxiv.org/abs/2406.05437)|[semantic-mdjcm](https://github.com/zhang-guangyi/semantic-mdjcm)|
+|[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
+|[cae-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
+|[exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid](https://arxiv.org/abs/2412.15105)|[dynamic](https://github.com/bhooi/dynamic)|
+## 2024-12-19
+|paper|code|
+|---|---|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[differentiable interacting multiple model particle filtering](https://arxiv.org/abs/2410.00620)|[DIMMPF](https://github.com/John-JoB/DIMMPF)|
+|[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[heartbert: a self-supervised ecg embedding model for efficient and effective medical signal analysis](https://arxiv.org/abs/2411.11896)|[heartbert](https://github.com/ecgresearch/heartbert)|
+|[event-based photometric bundle adjustment](https://arxiv.org/abs/2412.14111)|[epba](https://github.com/tub-rip/epba)|
+|[optimizing age of information in internet of vehicles over error-prone channels](https://arxiv.org/abs/2412.13204)|[blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov)|
+|[information-theoretic generative clustering of documents](https://arxiv.org/abs/2412.13534)|[lmgc](https://github.com/kduxin/lmgc)|
+## 2024-12-18
+|paper|code|
+|---|---|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[fast computation of the discrete fourier transform square index coefficients](https://arxiv.org/abs/2407.00182)|[fastsicdft](https://github.com/sauloqueiroz/fastsicdft)|
+|[end-to-end learning of transmitter and receiver filters in bandwidth limited fiber optic communication systems](https://arxiv.org/abs/2409.11980)|[marble-end-to-end](https://github.com/sfvnielsen/marble-end-to-end)|
+|[ecgtizer: a fully automated digitizing and signal recovery pipeline for electrocardiograms](https://arxiv.org/abs/2412.12139)|[ecgtizer](https://github.com/ummisco/ecgtizer)|
+|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
+|[a marl based multi-target tracking algorithm under jamming against radar](https://arxiv.org/abs/2412.12547)|[muav-mtt-mappo](https://github.com/s1s3r4/muav-mtt-mappo)|
+|[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
+## 2024-12-17
+|paper|code|
+|---|---|
+|[towards high-quality and efficient speech bandwidth extension with parallel amplitude and phase prediction](https://arxiv.org/abs/2401.06387)|[AP-BWE](https://github.com/yxlu-0102/AP-BWE)|
+|[communication-efficient federated learning via clipped uniform quantization](https://arxiv.org/abs/2405.13365)|[ClippedQuantFL](https://github.com/zavareh1/ClippedQuantFL)|
+|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
 ## 2024-12-13
 |paper|code|
 |---|---|
